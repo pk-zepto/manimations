@@ -1,0 +1,4 @@
+# Manim render output
+media/
+__pycache__/
+*.pyc
